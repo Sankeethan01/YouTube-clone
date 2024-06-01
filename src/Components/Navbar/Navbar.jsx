@@ -6,7 +6,7 @@ import logo from '../../assets/logo.png'
 import search_icon from '../../assets/search_icon.png'
 import upload_icon from '../../assets/upload_icon.png'
 import notification_icon from '../../assets/notification_icon.png'
-import profile_icon from '../../assets/profile.jpg'
+import profile_icon from '../../assets/profile_icon.png'
 import { Link } from 'react-router-dom'
 
 
